@@ -1,0 +1,7 @@
+ultralytics(YOLO)
+cv2
+numpy
+easyocr
+matplotplib.pyplot
+PIL
+os
