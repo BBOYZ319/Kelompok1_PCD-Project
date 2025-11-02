@@ -5,3 +5,4 @@ easyocr
 matplotplib.pyplot
 PIL
 os
+skimage
